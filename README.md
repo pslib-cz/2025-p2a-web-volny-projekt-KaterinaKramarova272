@@ -1,8 +1,8 @@
 # Volný projekt
 
-> **Jméno a příjmení:** `Doplňte`
+> **Jméno a příjmení:** `Kateřina Kramárová`
 
-> **Název projektu:** `Doplňte`
+> **Název projektu:** `Glowride`
 
 ---
 
@@ -10,7 +10,7 @@
 
 _Krátce popište svůj projekt – čemu se věnuje, co nabízí a jaký problém řeší?_
 
-`Doplňte popis projektu.`
+`Projekt se věnuje tématu freestyle inline skating. Ukazuje o čem sport je, jeho možnosti a ukázky pro zájemce, kterým taky nabízí připojení se do freestyle skating klubu v Jablonci. A účastnění se akcí související s tímto sportem.`
 
 ---
 
@@ -26,7 +26,7 @@ _Uveďte konkurenční projekty. Co se vám na nich líbí, co ne? V čem se mů
 
 _Kdo je váš cílový uživatel / zákazník? Popište typického zástupce cílové skupiny._
 
-`Doplňte cílovou skupinu.`
+`Zájemci o sport a konkrétně inline bruslení, pro ty kteří nechtějí jenom jezdit dokola, ale naučit se nějaké triky nebo se potkat s novými lidmi se stejným zájmem.`
 
 
 ## Odkazy a výstupy
