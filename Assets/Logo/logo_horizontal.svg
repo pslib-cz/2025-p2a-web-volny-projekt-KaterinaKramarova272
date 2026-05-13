@@ -1,0 +1,27 @@
+<svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <radialGradient id="gb" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#1A6FD4" stop-opacity="0.28"/>
+    <stop offset="100%" stop-color="#1A6FD4" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="fh"><feGaussianBlur stdDeviation="10"/></filter>
+  <filter id="fs"><feGaussianBlur stdDeviation="4"/></filter>
+  <filter id="ft"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="420" height="120" fill="#080810"/>
+<g transform="translate(60,60)">
+  <circle cx="0" cy="0" r="50" fill="#080810"/>
+  <ellipse cx="0" cy="0" rx="46" ry="46" fill="url(#gb)" filter="url(#fh)"/>
+  <circle cx="0" cy="0" r="34" fill="none" stroke="#1A3A6A" stroke-width="8"/>
+  <circle cx="0" cy="0" r="34" fill="none" stroke="#1A6FD4" stroke-width="2" stroke-opacity="0.6"/>
+  <circle cx="0" cy="0" r="49" fill="none" stroke="#F5C400" stroke-width="1.8"/>
+  <circle cx="0" cy="0" r="49" fill="none" stroke="#F5C400" stroke-width="5" stroke-opacity="0.12" filter="url(#fs)"/>
+  <text x="0" y="7" font-family="Arial Black, sans-serif" font-size="20" font-weight="900" fill="#F5C400" text-anchor="middle" letter-spacing="2" filter="url(#ft)" opacity="0.5">GLOW</text>
+  <text x="0" y="7" font-family="Arial Black, sans-serif" font-size="20" font-weight="900" fill="#F5C400" text-anchor="middle" letter-spacing="2">GLOW</text>
+  <text x="0" y="22" font-family="Arial Black, sans-serif" font-size="9" font-weight="900" fill="#4A9FFF" text-anchor="middle" letter-spacing="5">RIDE</text>
+</g>
+<line x1="124" y1="28" x2="124" y2="92" stroke="#333345" stroke-width="1"/>
+<text x="140" y="52" font-family="Arial Black, sans-serif" font-size="38" font-weight="900" fill="#F5C400" letter-spacing="3" filter="url(#ft)" opacity="0.4">GLOW</text>
+<text x="140" y="52" font-family="Arial Black, sans-serif" font-size="38" font-weight="900" fill="#F5C400" letter-spacing="3">GLOW</text>
+<text x="140" y="84" font-family="Arial Black, sans-serif" font-size="18" font-weight="900" fill="#FFFFFF" letter-spacing="9">RIDE</text>
+</svg>

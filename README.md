@@ -36,8 +36,7 @@ _Shrnutí všech odkazů na jednom místě. Průběžně aktualizujte._
 | Výstup | Odkaz |
 |---|---|
 | GitHub Pages (live) | [`GithubPages`](https://pslib-cz.github.io/2025-p2a-web-volny-projekt-KaterinaKramarova272/) |
-| Grafický manuál (Figma / Canva) | [`Grafický manuál + moodboard`](https://www.figma.com/design/r6wCaqxokvlqvnq36axYoH/Grafick%C3%BD-manu%C3%A1l---moodboard?node-id=0-1&t=2tH8YTBhLGRWIwur-1) |
-| Grafický návrh webu (Figma) | [`Doplň odkaz`](#) |
+| Grafický návrh webu (Figma, grafický manuál, moodboard) | [`Figma, grafický manuál, moodboard`](https://www.figma.com/design/o2YU8n0urW3PVIwjbxH6ez/Kram%C3%A1rov%C3%A1Kate%C5%99ina?node-id=5-23&t=byLXhow224YEKiR4-1) |
 | Fotografie / média | [`Doplň odkaz`](#) |
 
 ---
